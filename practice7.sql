@@ -1,4 +1,5 @@
 -- PRACTICE 7
+-- Chapter 10: https://github.com/mpalomera/practical-sql-2/tree/master/Chapter_10
 
 -- CLEAN UP DATA
 -- Finding duplicates 
