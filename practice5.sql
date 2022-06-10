@@ -1,4 +1,5 @@
 -- PRACTICE 5
+-- Chapter 8: https://github.com/mpalomera/practical-sql-2/tree/master/Chapter_08
 
 -- Constraints 
 -- April 25, 2022
