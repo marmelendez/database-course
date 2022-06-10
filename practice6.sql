@@ -1,4 +1,5 @@
 -- PRACTICE 6
+-- Chapter 8: https://github.com/mpalomera/practical-sql-2/tree/master/Chapter_08
 
 -- INDEXES
 -- Sintaxis
