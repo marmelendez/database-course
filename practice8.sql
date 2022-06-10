@@ -17,7 +17,6 @@ SELECT date_part('year', '2022-12-01 18:37:12 EST'::timestamptz) AS year
 -- Using extract
 SELECT extract(year from '2022-12-01 18:37:12 EST'::timestamptz) AS year;
 
-
 -- We created a nyc_yellow_taxi_trips database
  
 -- CHALLENGE
