@@ -1,4 +1,5 @@
 -- PRACTICE 8
+-- Chapter 12: https://github.com/mpalomera/practical-sql-2/tree/master/Chapter_12
 
 -- DATE AND TIME
 -- Date : full date, ex Friday 10th 2022
