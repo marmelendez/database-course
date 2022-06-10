@@ -34,7 +34,8 @@ ORDER BY length(zip) ASC;
 CREATE TABLE meat_poultry_egg_establishments_backup AS
 SELECT * FROM meat_poultry_egg_establishments;
 
--- CHALLEGE: Add a new colum meat_processing (boolean) set this column to true if the company has 'Meat Processing'
+-- CHALLEGE
+-- Add a new colum meat_processing (boolean) set this column to true if the company has 'Meat Processing'
 UPDATE meat_poultry_egg_establishments 
 SET meat_processing = true
 WHERE activities LIKE '%Meat Processing%';
