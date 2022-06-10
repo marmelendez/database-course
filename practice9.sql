@@ -1,4 +1,5 @@
 -- PRACTICE 9
+-- Chapter 13: https://github.com/mpalomera/practical-sql-2/tree/master/Chapter_13
 
 -- SUBQUERY
 -- "query that appears inside another query statement"
